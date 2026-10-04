@@ -27,51 +27,7 @@ The website is designed with a responsive layout so customers can browse product
 * **JavaScript**
 
 
-## 📁 Project Structure
 
-```text
-STYTCH/
-│
-├── public/
-├── src/
-│   ├── assets/
-│   ├── components/
-│   ├── pages/
-│   ├── App.jsx
-│   └── main.jsx
-│
-├── package.json
-├── README.md
-└── vite.config.js
-```
-
-> The exact folder structure may vary depending on the current project implementation.
-
-## 🚀 Getting Started
-
-### 1. Clone the repository
-
-```bash
-git clone https://github.com/Arghya746/STYTCH-CLOTHING-.git
-```
-
-### 2. Navigate to the project
-
-```bash
-cd STYTCH-CLOTHING-
-```
-
-### 3. Install dependencies
-
-```bash
-npm install
-```
-
-### 4. Start the development server
-
-```bash
-npm run dev
-```
 
 The website will then be available at the local development URL shown in your terminal.
 
